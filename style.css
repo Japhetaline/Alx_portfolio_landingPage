@@ -148,3 +148,7 @@ h1 {
     max-width: 80px;
     border-radius: 50%;
 }
+
+.intro img {
+    max-width: 80%;
+}
