@@ -143,3 +143,8 @@ h1 {
         height: 200px;
     }
 }
+
+.team-member img {
+    max-width: 80px;
+    border-radius: 50%;
+}
