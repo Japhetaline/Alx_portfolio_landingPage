@@ -136,23 +136,3 @@ h1 {
     text-decoration: underline;
 }
 
-@media (max-width: 768px) {
-    nav li {
-        display: block;
-        margin: 10px 0;
-    }
-
-    .cta-button {
-        display: block;
-        width: 100%;
-        text-align: center;
-    }
-
-    .feature {
-        margin: 10px 0;
-    }
-
-    .team-member {
-        width: 100%;
-    }
-}
